@@ -1,0 +1,15 @@
+.Button {
+  height: 32px;
+  border-radius: 8px;
+  color: white;
+  background-color: teal;
+  box-shadow: none;
+  border: none;
+  padding: 0px 16px;
+  cursor: pointer;
+}
+
+.Button:disabled {
+  background-color: lightgray;
+  cursor: default;
+}

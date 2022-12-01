@@ -1,0 +1,12 @@
+.CheckBoxContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 16px;
+  height: 100%;
+}
+
+.CheckBox {
+  cursor: pointer;
+}
